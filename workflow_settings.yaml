@@ -1,0 +1,4 @@
+defaultProject: test-manasag-r3
+defaultLocation: us-central1
+defaultDataset: dataform_poc
+dataformCoreVersion: 3.0.0
